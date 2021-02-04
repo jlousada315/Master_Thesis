@@ -8,8 +8,8 @@ Thesis Repository to obtain Master's Degree in Physics Engineering at IST Lisbon
  First, we extended the research of applying Reinforcement Learning to optimize Testing strategies. After proven to be a strategy as good as traditional methods, we test its ability to adapt to new environments, by using novel data from a financial industry.
 Additionally, we studied the impact of experimenting a new competitive model for memory representation: Decision Trees, although without producing significant improvements relative to Artificial Neural Networks.
  NNE-TCP is a Machine-Learning (ML) framework that analyses what files were modified when there was a test status transition and learns relationships between the two entities by mapping them into multidimensional vectors and grouping them by similarity. When new changes are made, tests that are more likely to be linked to the files modified are prioritized. Furthermore, NNE-TCP enables entity visualization in low-dimensional space, allowing for smarter groupings.
- By applying NNE-TCP, it is shown for the first time that the modified files and tests connection is relevant and produces fruitful prioritization results.
-\par This research is carried out for Instituto Superior Técnico in collaboration with BNP Paribas. I have benefited
+By applying NNE-TCP, it is shown for the first time that the modified files and tests connection is relevant and produces fruitful prioritization results.
+ This research is carried out for Instituto Superior Técnico in collaboration with BNP Paribas. I have benefited
 from a fellowship of the BNP Paribas, in the framework of the IST Technology Transfer Office.
 
 ## Achievements
@@ -18,8 +18,8 @@ The production of two scientific papers: one for RETECS and another for NNE-TCP 
 
 Links: 
 
-- NNE-TCP -> https://arxiv.org/abs/2012.10154
 - RETECS -> https://arxiv.org/abs/2012.11364
+- NNE-TCP -> https://arxiv.org/abs/2012.10154
 
 ## Contents:
 
